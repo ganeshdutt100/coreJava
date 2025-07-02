@@ -49,3 +49,5 @@ public class code3 {
         myBike.stop();
     }
 }
+
+//super class <-----subclass1 <---subclass 2
